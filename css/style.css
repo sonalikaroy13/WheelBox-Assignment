@@ -1,0 +1,92 @@
+#page {
+  background: linear-gradient(321deg, rgba(2,70,136,1) 0%, rgba(0,225,255,1) 100%);
+  padding: 4rem 0;
+}
+
+/*======================================
+              COUNTER
+======================================*/
+
+.counter-box {
+  color: #fff;
+  text-align: center;
+}
+
+.ico-circle {
+  font-size: 2rem;
+  border-radius: 50%;
+  line-height: 1.55;
+  margin: 4px auto;
+  text-align: center;
+  display: inline-block;
+}
+
+.counter-ico {
+  margin-bottom: .5rem;
+}
+
+.counter-ico .ico-circle {
+  height: 50px;
+  width: 50px;
+  line-height: 1.5;
+  box-shadow: 0 0 0 10px #f9f9f9;
+}
+
+.counter-num .counter {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+/*======================================
+              HEADING
+======================================*/
+
+#heading {
+    color: #fff;
+    margin: 50px auto;
+    text-align: center;
+    letter-spacing: 1px;
+    word-spacing: 4px;
+}
+
+/*======================================
+            TESTIMONIALS
+======================================*/
+
+.section_gap {
+  padding: 40px 0 0 0; 
+}
+
+img {
+    max-height: 100px;
+    border-radius: 50%;
+}
+
+.lite_bg {
+  background: #f9f9f9; }
+ 
+hr{
+    max-width: 70%;
+    background: rgb(28, 162, 212);
+    height: 1px;
+}
+
+.author{
+    background: rgb(28, 162, 212);
+}
+
+.single_author {
+    text-align: center; 
+}
+
+.author_decs {
+    box-shadow: 0 0 50px rgba(153, 153, 153, 0.1);
+    background: #fff;
+    padding: 40px;
+    margin-top: -50px; 
+    margin-bottom: 30px;
+}
+
+.author_decs h4 {
+      margin: 20px 0px 0px 0px; 
+}
